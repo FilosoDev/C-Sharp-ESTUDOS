@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\ref\AtribuicoesDeVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\net5.0\AtribuicoesDeVariaveis.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\ref\AtribuicoesDeVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\net5.0\AtribuicoesDeVariaveis.genruntimeconfig.cache

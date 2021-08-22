@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\CaracteresETextos.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\CaracteresETextos.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\CaracteresETextos.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\CaracteresETextos.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\CaracteresETextos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\ref\CaracteresETextos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\bin\Debug\net5.0\CaracteresETextos.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\ref\CaracteresETextos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CaracteresETextos\obj\Debug\net5.0\CaracteresETextos.genruntimeconfig.cache
