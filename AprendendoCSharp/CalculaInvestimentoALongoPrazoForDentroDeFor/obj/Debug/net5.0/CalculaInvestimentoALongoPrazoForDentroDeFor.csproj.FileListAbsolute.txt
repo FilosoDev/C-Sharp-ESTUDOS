@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\ref\CalculaInvestimentoALongoPrazoForDentroDeFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\bin\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\ref\CalculaInvestimentoALongoPrazoForDentroDeFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CalculaInvestimentoALongoPrazoForDentroDeFor\obj\Debug\net5.0\CalculaInvestimentoALongoPrazoForDentroDeFor.genruntimeconfig.cache

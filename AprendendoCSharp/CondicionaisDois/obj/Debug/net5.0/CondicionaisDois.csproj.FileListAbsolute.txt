@@ -1,0 +1,15 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\CondicionaisDois.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\CondicionaisDois.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\CondicionaisDois.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\CondicionaisDois.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\CondicionaisDois.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\ref\CondicionaisDois.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\bin\Debug\net5.0\CondicionaisDois.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\ref\CondicionaisDois.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CondicionaisDois\obj\Debug\net5.0\CondicionaisDois.genruntimeconfig.cache

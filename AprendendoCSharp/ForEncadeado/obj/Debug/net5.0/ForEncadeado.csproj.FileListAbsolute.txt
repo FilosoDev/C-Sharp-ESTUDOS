@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ref\ForEncadeado.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\bin\Debug\net5.0\ForEncadeado.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ref\ForEncadeado.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.genruntimeconfig.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ForEncadeado\obj\Debug\net5.0\ForEncadeado.csproj.AssemblyReference.cache

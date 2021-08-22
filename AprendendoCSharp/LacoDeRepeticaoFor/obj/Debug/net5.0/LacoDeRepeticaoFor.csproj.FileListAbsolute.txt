@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.genruntimeconfig.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.AssemblyReference.cache
