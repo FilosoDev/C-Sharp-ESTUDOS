@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ConversoesEOutrosTiposNumericos.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ConversoesEOutrosTiposNumericos.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ConversoesEOutrosTiposNumericos.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ConversoesEOutrosTiposNumericos.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ConversoesEOutrosTiposNumericos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ref\ConversoesEOutrosTiposNumericos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\net5.0\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ref\ConversoesEOutrosTiposNumericos.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.genruntimeconfig.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\net5.0\ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache

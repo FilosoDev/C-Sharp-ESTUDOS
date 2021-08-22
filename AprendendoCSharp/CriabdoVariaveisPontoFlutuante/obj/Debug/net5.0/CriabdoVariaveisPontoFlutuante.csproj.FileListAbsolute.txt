@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\CriabdoVariaveisPontoFlutuante.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\CriabdoVariaveisPontoFlutuante.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\CriabdoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\CriabdoVariaveisPontoFlutuante.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\CriabdoVariaveisPontoFlutuante.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\ref\CriabdoVariaveisPontoFlutuante.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\bin\Debug\net5.0\CriabdoVariaveisPontoFlutuante.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\ref\CriabdoVariaveisPontoFlutuante.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriabdoVariaveisPontoFlutuante\obj\Debug\net5.0\CriabdoVariaveisPontoFlutuante.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\ref\MeuPrimeiroProjeto.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\bin\Debug\net5.0\MeuPrimeiroProjeto.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\ref\MeuPrimeiroProjeto.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\MeuPrimeiroProjeto\obj\Debug\net5.0\MeuPrimeiroProjeto.genruntimeconfig.cache

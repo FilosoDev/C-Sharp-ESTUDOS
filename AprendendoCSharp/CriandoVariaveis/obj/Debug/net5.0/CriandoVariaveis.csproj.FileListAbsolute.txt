@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\CriandoVariaveis.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\CriandoVariaveis.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\CriandoVariaveis.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\CriandoVariaveis.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\CriandoVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\ref\CriandoVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\bin\Debug\net5.0\CriandoVariaveis.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\ref\CriandoVariaveis.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp\CriandoVariaveis\obj\Debug\net5.0\CriandoVariaveis.genruntimeconfig.cache
