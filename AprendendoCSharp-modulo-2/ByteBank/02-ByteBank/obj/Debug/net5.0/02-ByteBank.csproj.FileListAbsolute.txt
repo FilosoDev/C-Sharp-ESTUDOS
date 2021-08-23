@@ -1,0 +1,16 @@
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\02-ByteBank.exe
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\02-ByteBank.deps.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\02-ByteBank.runtimeconfig.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\02-ByteBank.runtimeconfig.dev.json
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\02-ByteBank.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\ref\02-ByteBank.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\bin\Debug\net5.0\02-ByteBank.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.csproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.AssemblyInfoInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.AssemblyInfo.cs
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\ref\02-ByteBank.dll
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.pdb
+C:\Users\arthu\Desktop\C#\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\02-ByteBank\obj\Debug\net5.0\02-ByteBank.genruntimeconfig.cache
