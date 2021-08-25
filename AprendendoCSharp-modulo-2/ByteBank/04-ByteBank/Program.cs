@@ -13,12 +13,19 @@ namespace _04_ByteBank
 
             bool resultadoSaque = contaArthur.Sacar(90);
 
-            Console.WriteLine(contaArthur.saldo);
+            Console.WriteLine("Saldo Arthur: " + contaArthur.saldo);
             Console.WriteLine(resultadoSaque);
 
             contaArthur.Depositar(300);
 
-            Console.WriteLine(contaArthur.saldo);
+            ContaCorrente contaElaine = new ContaCorrente();
+            contaElaine.titular = "Elaine";
+
+            contaArthur.Transferir(300, contaElaine);
+
+            Console.WriteLine("Saldo Elaine: " + contaElaine.saldo);
+
+            Console.WriteLine("Saldo Arthur: " + contaArthur.saldo);
 
             Console.ReadLine();
         }
