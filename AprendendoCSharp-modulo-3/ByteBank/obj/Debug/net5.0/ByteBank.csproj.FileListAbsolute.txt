@@ -1,0 +1,16 @@
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ByteBank.exe
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ByteBank.deps.json
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.json
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ByteBank.runtimeconfig.dev.json
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ref\ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\bin\Debug\net5.0\ByteBank.pdb
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.csproj.AssemblyReference.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfoInputs.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.AssemblyInfo.cs
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ref\ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.pdb
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-3\ByteBank\obj\Debug\net5.0\ByteBank.genruntimeconfig.cache
