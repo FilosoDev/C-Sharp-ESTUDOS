@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "06-ByteBank/1.0.0": {
+        "runtime": {
+          "06-ByteBank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06-ByteBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
