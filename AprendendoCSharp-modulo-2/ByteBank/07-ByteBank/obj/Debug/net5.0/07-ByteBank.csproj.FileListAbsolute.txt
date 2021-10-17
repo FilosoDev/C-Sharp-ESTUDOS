@@ -1,0 +1,15 @@
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.exe
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.deps.json
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.runtimeconfig.json
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.runtimeconfig.dev.json
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\ref\07-ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\bin\Debug\net5.0\07-ByteBank.pdb
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.AssemblyInfoInputs.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.AssemblyInfo.cs
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\ref\07-ByteBank.dll
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.pdb
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-2\ByteBank\07-ByteBank\obj\Debug\net5.0\07-ByteBank.genruntimeconfig.cache
