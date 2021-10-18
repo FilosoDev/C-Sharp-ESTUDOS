@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
-    public class Funcionario
+    public abstract class Funcionario
 
     {
 
@@ -16,9 +16,9 @@ namespace ByteBank.Funcionarios
         public string CPF { get; private set; }
         public double Salario { get; protected set; } //protegido para a classe e para os filhos
 
+
         public Funcionario(double salario, string cpf)
         {
-            Console.WriteLine("Criando FUNCIONÁRIO");
 
             CPF = cpf;
             Salario = salario;
@@ -28,20 +28,11 @@ namespace ByteBank.Funcionarios
 
         }
 
-
-
-        public virtual void AumentarSalario()
-        {
-            Salario = Salario * 1.1;
-        }
-
+        public abstract void AumentarSalario();
 
 
         // permite q seja sobreescrito
-        public virtual double GetBonificacao()
-        {
-            return Salario * 0.10;
-        }
+        public abstract double GetBonificacao();
 
     }
 }

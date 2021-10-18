@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ByteBank.Sistemas;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
-    public class Diretor : Funcionario
+    public class Diretor : Autenticavel
     {
 
         // construtor que usa o construtor da classe base (Funcionario)
@@ -24,7 +25,7 @@ namespace ByteBank.Funcionarios
         public override double GetBonificacao()
         {
             // o base faz referencia ao método GetBnificacao da classe funcionario(base)
-            return Salario + base.GetBonificacao();
+            return Salario * 0.5;
         }
     }
 }

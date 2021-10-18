@@ -1,5 +1,6 @@
 ﻿using System;
 using ByteBank.Funcionarios;
+using ByteBank.Sistemas;
 
 namespace ByteBank
 {
@@ -8,39 +9,55 @@ namespace ByteBank
         static void Main(string[] args)
         {
 
-            GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            CalcularBonificacao();
+            UsarSistema();
 
-            Funcionario arthur = new Funcionario(2000, "123.456.789");
+            Console.ReadLine();
+        }
 
+        public static void UsarSistema()
+        {
+            SistemaInterno sistemaInterno = new SistemaInterno();
 
-            arthur.AumentarSalario();
-            Console.WriteLine("Novo salário Arthur: " + arthur.Salario);
+            Diretor roberta = new Diretor("123.456.789-10");
+            roberta.Nome = "Roberta";
+            roberta.Senha = "123";
 
-            Console.WriteLine(Funcionario.TotalDeFuncionarios);
+            GerenteDeConta camila = new GerenteDeConta("123.456.789-10");
+            camila.Nome = "Camila";
+            camila.Senha = "abc";
 
-            // bonificação
-            gerenciador.Registrar(arthur);
+            sistemaInterno.Logar(roberta, "123");
+            sistemaInterno.Logar(camila, "abc");
+        }
 
-            Funcionario maria = new Diretor("123.456.789");
+        private static void CalcularBonificacao()
+        {
+            GerenciadorBonificacao gerenciadorBonificacao = new GerenciadorBonificacao();
 
-            Console.WriteLine(Funcionario.TotalDeFuncionarios);
+            Designer pedro = new Designer("123.456.789-10");
+            pedro.Nome = "Pedro";
 
-            Diretor elaine = new Diretor("123.456.789");
-            elaine.Nome = "Elaine";
+            Diretor roberta = new Diretor("123.456.789-10");
+            roberta.Nome = "Roberta";
 
-            // bonificação
-            gerenciador.Registrar(elaine);
+            Auxiliar igor = new Auxiliar("123.456.789-10");
+            igor.Nome = "Igor";
 
+            GerenteDeConta camila = new GerenteDeConta("123.456.789-10");
+            camila.Nome = "Camila";
 
-            Console.WriteLine(arthur.Nome);
-            Console.WriteLine(arthur.GetBonificacao());
+            Desenvolvedor guilherme = new Desenvolvedor("123.456.789-10");
+            guilherme.Nome = "Giulherme";
 
-            Console.WriteLine(elaine.Nome);
-            Console.WriteLine(elaine.GetBonificacao());
+            gerenciadorBonificacao.Registrar(pedro);
+            gerenciadorBonificacao.Registrar(roberta);
+            gerenciadorBonificacao.Registrar(igor);
+            gerenciadorBonificacao.Registrar(camila);
+            gerenciadorBonificacao.Registrar(guilherme);
 
-            Console.WriteLine("Total bonificações: " + gerenciador.GetTotalBonificacao());
+            Console.WriteLine("Total de bonificações do mês :" + gerenciadorBonificacao.GetTotalBonificacao());
 
-            Console.WriteLine(Funcionario.TotalDeFuncionarios);
         }
     }
 }
