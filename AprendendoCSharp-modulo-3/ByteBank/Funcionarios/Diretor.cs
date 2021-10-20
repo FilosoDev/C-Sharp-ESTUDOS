@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Funcionarios
 {
-    public class Diretor : Autenticavel
+    public class Diretor : FuncionarioAutenticavel
     {
 
         // construtor que usa o construtor da classe base (Funcionario)
@@ -15,6 +15,7 @@ namespace ByteBank.Funcionarios
         {
             Console.WriteLine("Construindo DIRETOR...");
         }
+
 
         public override void AumentarSalario()
         {
