@@ -1,0 +1,7 @@
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-4\csharpexceptions-projetoInicial\ByteBank\obj\Debug\ByteBank.pdb
