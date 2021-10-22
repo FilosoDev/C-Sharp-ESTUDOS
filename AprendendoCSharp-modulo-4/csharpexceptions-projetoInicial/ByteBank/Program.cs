@@ -13,14 +13,35 @@ namespace ByteBank
             // < 0
             try
             {
-                ContaCorrente conta = new ContaCorrente(0, 0);
+                ContaCorrente conta = new ContaCorrente(333, 123456);
+                ContaCorrente conta2 = new ContaCorrente(333, 123456);
+
+                conta2.Transferir(-10, conta);
+
+
+                conta.Depositar(50);
+                Console.WriteLine(conta.Saldo);
+                conta.Sacar(-500);
+
+                
+
+
             }
+            
+            
             catch (ArgumentException ex)
             {
                 Console.WriteLine("Argumento com problema: " + ex.ParamName);
                 Console.WriteLine("Ocorreu uma exceção do tipo ArgumentException");
                 Console.WriteLine(ex.Message);
             }
+
+            catch (SaldoInsuficienteException ex)
+            {
+                Console.WriteLine("Exceção do tipo SaldoInsuficienteExcpetion");
+                Console.WriteLine(ex.Message);
+            }
+
             catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
