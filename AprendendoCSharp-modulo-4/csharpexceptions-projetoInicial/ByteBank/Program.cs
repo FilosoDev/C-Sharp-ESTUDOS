@@ -10,58 +10,26 @@ namespace ByteBank
     {
         static void Main(string[] args)
         {
-            // < 0
             try
             {
-                ContaCorrente conta = new ContaCorrente(333, 123456);
-                ContaCorrente conta2 = new ContaCorrente(333, 123456);
+                ContaCorrente conta1 = new ContaCorrente(1234, 1234567);
+                ContaCorrente conta2 = new ContaCorrente(4321, 7654321);
 
-                conta2.Transferir(-10, conta);
-
-
-                conta.Depositar(50);
-                Console.WriteLine(conta.Saldo);
-                conta.Sacar(-500);
-
-                
-
+                //conta1.Transferir(100000, conta2);
+                conta1.Sacar(10000);
 
             }
-            
-            
-            catch (ArgumentException ex)
-            {
-                Console.WriteLine("Argumento com problema: " + ex.ParamName);
-                Console.WriteLine("Ocorreu uma exceção do tipo ArgumentException");
-                Console.WriteLine(ex.Message);
-            }
-
-            catch (SaldoInsuficienteException ex)
-            {
-                Console.WriteLine("Exceção do tipo SaldoInsuficienteExcpetion");
-                Console.WriteLine(ex.Message);
-            }
-
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-
-
-            try
-            {
-                Metodo();
-            }
-            catch (DivideByZeroException erro)
-            {
-                Console.WriteLine("Não é possível dividir por zerooo!");
-            }
-            catch (Exception e)
+            catch(OperacaoFinanceiraException e)
             {
                 Console.WriteLine(e.Message);
                 Console.WriteLine(e.StackTrace);
-                Console.WriteLine("aconteceu um erro");
+
+                Console.WriteLine("Informações da INNER EXCEPTION (exceção interna): ");
+
+                //Console.WriteLine(e.InnerException.Message);
+                //Console.WriteLine(e.InnerException.StackTrace);
             }
+            
 
             Console.ReadLine();
         }
