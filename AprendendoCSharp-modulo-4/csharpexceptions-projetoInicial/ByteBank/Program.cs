@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,30 +9,69 @@ namespace ByteBank
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
+        {
+            try
+            {
+                CarregarContas();
+
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("catch no método main");
+            }
+
+            Console.ReadLine();
+        }
+
+
+        private static void CarregarContas()
+        {
+
+            using(LeitorDeArquivo leitor = new LeitorDeArquivo("teste.txt"))
+            {
+                leitor.LerProximaLinha();
+            }
+
+            // ----------------------------------------------------
+
+            //LeitorDeArquivo leitor = null;
+            //try
+            //{
+            //    leitor = new LeitorDeArquivo("contas1.txt");
+
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //    leitor.LerProximaLinha();
+            //}
+            //finally
+            //{
+            //    Console.WriteLine("Executando o finally");
+            //    if(leitor != null)
+            //    {
+            //        leitor.Fechar();
+            //    }
+
+            //}
+            
+        }
+
+        private static void TestaInnerException()
         {
             try
             {
                 ContaCorrente conta1 = new ContaCorrente(1234, 1234567);
                 ContaCorrente conta2 = new ContaCorrente(4321, 7654321);
 
-                //conta1.Transferir(100000, conta2);
+                //conta1.Trasnferir(10000, conta2);
                 conta1.Sacar(10000);
-
             }
             catch(OperacaoFinanceiraException e)
             {
                 Console.WriteLine(e.Message);
                 Console.WriteLine(e.StackTrace);
-
-                Console.WriteLine("Informações da INNER EXCEPTION (exceção interna): ");
-
-                //Console.WriteLine(e.InnerException.Message);
-                //Console.WriteLine(e.InnerException.StackTrace);
             }
-            
-
-            Console.ReadLine();
         }
 
         // Teste com a cadeia de chamada
