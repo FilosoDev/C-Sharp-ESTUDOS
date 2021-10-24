@@ -13,11 +13,42 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            string url = "pagina?argumentos"; //texto não muda, mas pode ser acrescentado com +=
+
+            //moedaOrigem=real&moedaDestino=dolar
+
+
+            string palavra = "moedaOrigem=real&moedaDestino=dolar";
+            string nomeArgumento = "moedaDestino";
+
+            int indice = palavra.IndexOf(nomeArgumento);
+            Console.WriteLine(indice);
+
+            Console.WriteLine("Tamanho da string nomeArgumento: " + nomeArgumento.Length);
+            Console.WriteLine(palavra);
+            Console.WriteLine(palavra.Substring(indice));
+            Console.WriteLine(palavra.Substring(indice + nomeArgumento.Length + 1));
+
+
+            // testes isNullOrEmpty
+            string textoVazio = "";
+            string textoNulo = null;
+            Console.WriteLine(string.IsNullOrEmpty(textoVazio));
+            Console.WriteLine(string.IsNullOrEmpty(textoNulo));
+
+            //ExtratorValorDeArgumentosURL extrator = new ExtratorValorDeArgumentosURL("");
+
+            string url = "paginas?moedaOrigem=real&moedaDestino=dolar"; //texto não muda, mas pode ser acrescentado com +=
+
+
+            int indiceInterrogacao = url.IndexOf('?');
+
+            Console.WriteLine(indiceInterrogacao);
 
             Console.WriteLine(url);
-            string argumentos = url.Substring(7); // cria-se uma nova string da operação
+            string argumentos = url.Substring(indiceInterrogacao + 1); // cria-se uma nova string da operação
             Console.WriteLine(argumentos);
+
+        
 
 
 
