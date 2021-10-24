@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ByteBank.Modelos;
 using ByteBank.Modelos.Funcionarios;
+using Humanizer;
 
 namespace ByteBank.SistemaAgencia
 {
@@ -12,19 +13,22 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
-            ContaCorrente conta = new ContaCorrente(1234, 654321);
-           
-        
-            FuncionarioAutenticavel carlos = null;
-            carlos.Autenticar("aaaa");
 
-            
+            DateTime dataFimPagamento = new DateTime(2021, 12, 25);
+            DateTime dataCorrente = DateTime.Now;
 
-            Console.WriteLine(conta.Numero);
+            TimeSpan diferenca = dataFimPagamento - dataCorrente;
 
+            string mensagem = "Vencimento em: " + TimeSpanHumanizeExtensions.Humanize(diferenca);
+
+            Console.WriteLine(dataFimPagamento);
+            Console.WriteLine(dataCorrente);
+            Console.WriteLine(mensagem);
 
 
             Console.ReadLine();
         }
+
+       
     }
 }
