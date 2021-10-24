@@ -21,8 +21,8 @@ namespace ByteBank.SistemaAgencia
             }
 
 
-            int indiceInterrogacao = URL.IndexOf('?');
-            _argumentos = URL.Substring(indiceInterrogacao + 1);
+            int indiceInterrogacao = url.IndexOf('?');
+            _argumentos = url.Substring(indiceInterrogacao + 1);
 
 
             URL = url;
@@ -31,8 +31,21 @@ namespace ByteBank.SistemaAgencia
 
         public string GetValor(string nomeParametro)
         {
-            //int indiceParametro = _argumentos.IndexOf
-            return "ok";
+            nomeParametro = nomeParametro.ToUpper(); //VALOR
+            string argumentoEmCaixaAlta = _argumentos.ToUpper(); //MOEDAORIGEM=REAL&MOEDADESTINO=DOLAR
+
+            string termo = nomeParametro + "="; // resultado moedaDestino=
+            int indiceTermo = argumentoEmCaixaAlta.IndexOf(termo);
+
+            string resultado = _argumentos.Substring(indiceTermo + termo.Length); //resultado dolar
+            int indiceEComercial = resultado.IndexOf('&');
+
+            if(indiceEComercial == -1)
+            {
+                return resultado;
+            }
+
+            return resultado.Remove(indiceEComercial);
         }
 
 
