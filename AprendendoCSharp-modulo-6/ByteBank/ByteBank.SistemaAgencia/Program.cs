@@ -14,6 +14,49 @@ namespace ByteBank.SistemaAgencia
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Olá mundo!");
+            Console.WriteLine(123);
+            Console.WriteLine(10.5);
+            Console.WriteLine(true);
+
+            object conta = new ContaCorrente(456, 7654321);
+            object desenvolvedor = new Desenvolvedor("1233456");
+
+            string contaToString = conta.ToString();
+
+            Console.WriteLine(conta);
+            Console.WriteLine(contaToString);
+
+
+            Cliente carlos_1 = new Cliente();
+            carlos_1.Nome = "Manoel";
+            carlos_1.CPF = "123.456.789-00";
+            carlos_1.Profissao = "Developer";
+
+            Cliente carlos_2 = new Cliente();
+            carlos_2.Nome = "Manoel";
+            carlos_2.CPF = "123.456.789-00";
+            carlos_2.Profissao = "Developer";
+
+            ContaCorrente conta_99 = new ContaCorrente(111, 33333);
+
+            if(carlos_1.Equals(carlos_2))
+            {
+                Console.WriteLine("São iguais");
+            }
+            else
+            {
+                Console.WriteLine("Não são iguais");
+            }
+
+
+
+            Console.ReadLine();
+        }
+
+        // testes regex
+        static void TestaString()
+        {
             // recuperar suposto número de telefone
             // meu nome é Arthur, me ligue no número 99765-3390
             //string padrao = "[0123456789][0123456789][0123456789][0123456789][-][0123456789][0123456789][0123456789][0123456789]";
@@ -23,7 +66,7 @@ namespace ByteBank.SistemaAgencia
             //string padrao = "[0-9]{4,5}-{0,1}[0-9]{4}";
             string padrao = "[0-9]{4,5}-?[0-9]{4}";
             string textoDeTeste = "meu nome é Arthur, me ligue no número 997653390";
-            
+
             Match resultado = Regex.Match(textoDeTeste, padrao);
 
             Console.WriteLine(resultado.Value);
