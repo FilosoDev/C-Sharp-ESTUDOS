@@ -15,6 +15,20 @@ namespace ByteBank.SistemaAgencia
         static void Main(string[] args)
         {
 
+            //testando SomarVarios com params
+            Console.WriteLine(SomarVarios(1, 2, 10, 45, 100));
+            Console.WriteLine(SomarVarios(1, 2, 100));
+
+
+
+
+
+            Console.ReadLine();
+
+        }
+
+        static void TestaListaDeContaCorrente()
+        {
             ListaDeContaCorrente lista = new ListaDeContaCorrente();
 
             ContaCorrente contaDeTeste = new ContaCorrente(1111, 11111111);
@@ -24,23 +38,42 @@ namespace ByteBank.SistemaAgencia
             lista.Adicionar(new ContaCorrente(333, 123456));
             lista.Adicionar(new ContaCorrente(333, 654321));
             lista.Adicionar(new ContaCorrente(333, 997744));
-            lista.Adicionar(new ContaCorrente(333, 123456));
-            lista.Adicionar(new ContaCorrente(333, 654321));
-            lista.Adicionar(new ContaCorrente(333, 997744));
-            lista.Adicionar(new ContaCorrente(333, 123456));
-            lista.Adicionar(new ContaCorrente(333, 654321));
-            lista.Adicionar(new ContaCorrente(333, 997744));
-            
-            lista.EscreverListaNaTela();
 
             lista.Remover(contaDeTeste);
 
             Console.WriteLine("nova lista após a remoção...");
 
-            lista.EscreverListaNaTela();
+            ContaCorrente[] contas = new ContaCorrente[]
+            {
+                contaDeTeste,
+                new ContaCorrente(333, 123456),
+                new ContaCorrente(333, 997744)
+            };
+            // add lista de contas
+            lista.AdicionarVarios(contas);
 
-            Console.ReadLine();
+            // usando sobrecarga nesse método..params
+            lista.AdicionarVarios(
+                contaDeTeste,
+                new ContaCorrente(333, 123456),
+                new ContaCorrente(333, 997744)
+            );
 
+            for (int i = 0; i < lista.Tamanho; i++)
+            {
+                ContaCorrente itemAtual = lista[i];
+                Console.WriteLine($"Item na posição {i} = Conta {itemAtual.Numero}/{itemAtual.Agencia}");
+            }
+        }
+
+        static int SomarVarios(params int[] numeros)
+        {
+            int acumulador = 0;
+            foreach (int numero in numeros)
+            {
+                acumulador += numero;
+            }
+            return acumulador;
         }
 
         static void TestaArrayDeContaCorrente()
