@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using ByteBank.Modelos;
 using ByteBank.Modelos.Funcionarios;
 using Humanizer;
+using ByteBank.SistemaAgencia.Extensoes;
 
 namespace ByteBank.SistemaAgencia
 {
@@ -24,13 +25,11 @@ namespace ByteBank.SistemaAgencia
             idades.Add(15);
 
 
-            idades.Remove(9);
+            idades.AdicionarVarios(99, 23, 11);
+
+            //idades.Remove(9);
 
             
-
-            ListExtensoes.AdicionarVarios(idades, 1, 55, 78, 99);
-
-            idades.AdicionarVarios(3,77,56);
 
 
             for(int i = 0; i < idades.Count; i++)
