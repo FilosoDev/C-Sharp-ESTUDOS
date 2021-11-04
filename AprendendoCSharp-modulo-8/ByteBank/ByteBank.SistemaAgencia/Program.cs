@@ -16,7 +16,47 @@ namespace ByteBank.SistemaAgencia
         static void Main(string[] args)
         {
 
-            List<int> idades = new List<int>();
+            var contas = new List<ContaCorrente>()
+            { 
+                new ContaCorrente(111, 2222),
+                new ContaCorrente(001, 5555),
+                new ContaCorrente(122, 1111),
+            };
+
+            contas.Sort();
+
+            foreach (var conta in contas)
+            {
+                Console.WriteLine($"Conta número {conta.Numero}, ag. {conta.Agencia}");
+            }
+
+            Console.ReadLine();
+
+        }
+
+
+
+        static void TestaSort()
+        {
+            var nomes = new List<string>()
+            {
+                "Roberta",
+                "Arthur",
+                "Camila",
+                "José",
+            };
+
+            nomes.Sort();
+
+            foreach (var nome in nomes)
+            {
+                Console.WriteLine(nome);
+            }
+
+
+
+
+            var idades = new List<int>();
 
             idades.Add(5);
             idades.Add(9);
@@ -25,22 +65,37 @@ namespace ByteBank.SistemaAgencia
             idades.Add(15);
 
 
-            idades.AdicionarVarios(99, 23, 11);
+            idades.AdicionarVarios(98, 23, 11);
 
-            //idades.Remove(9);
+            //idades.Remove(15);
 
-            
+            idades.AdicionarVarios(99, -1);
+
+            // ordena
+            idades.Sort();
 
 
-            for(int i = 0; i < idades.Count; i++)
+            for (int i = 0; i < idades.Count; i++)
             {
                 Console.WriteLine(idades[i]);
             }
 
 
 
-            Console.ReadLine();
 
+
+
+
+
+
+
+            //ContaCorrente conta = new ContaCorrente(111, 4444);
+            //GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
+            //List<GerenciadorBonificacao> gerenciadores = new List<GerenciadorBonificacao>();
+            //var resultado = SomarVarios(1, 5, 9);
+            //var conta = new ContaCorrente(111, 4444);
+            //var gerenciador = new GerenciadorBonificacao();
+            //var gerenciadores = new List<GerenciadorBonificacao>();
         }
 
         static void TestaListaDeObject()

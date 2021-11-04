@@ -16,5 +16,10 @@ namespace ByteBank.SistemaAgencia.Extensoes
                 lista.Add(item);
             }
         }
+
+        public static void TesteGenerico<T2>(this string texto)
+        {
+
+        }
     }
 }
