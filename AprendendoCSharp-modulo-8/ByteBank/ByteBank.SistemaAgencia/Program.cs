@@ -8,6 +8,7 @@ using ByteBank.Modelos;
 using ByteBank.Modelos.Funcionarios;
 using Humanizer;
 using ByteBank.SistemaAgencia.Extensoes;
+using ByteBank.SistemaAgencia.Comparadores;
 
 namespace ByteBank.SistemaAgencia
 {
@@ -23,7 +24,9 @@ namespace ByteBank.SistemaAgencia
                 new ContaCorrente(122, 1111),
             };
 
-            contas.Sort();
+            //contas.Sort(); -> chama a implementação dada em IComparable
+
+            contas.Sort(new ComparadorContaCorrentePorAgencia());
 
             foreach (var conta in contas)
             {
