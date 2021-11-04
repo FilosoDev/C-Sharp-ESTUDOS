@@ -28,25 +28,15 @@ namespace ByteBank.SistemaAgencia
 
             //contas.Sort(); -> chama a implementação dada em IComparable
 
-            IOrderedEnumerable<ContaCorrente> contasOrdenadas =
-                // expressão LAMBDA
-                // o que etá sendo devolvido
-                contas.OrderBy(conta => { 
-                    if(conta == null)
-                    {
-                        return int.MaxValue;
-                    }
 
-
-                    return conta.Numero; 
-                });
+            // usando expressão lamba
+            var contasOrdenadas = contas
+                .Where(conta => conta != null)
+                .OrderBy(conta => conta.Numero);
 
             foreach (var conta in contasOrdenadas)
             {
-                if(conta != null)
-                {
-                    Console.WriteLine($"Conta número {conta.Numero}, ag. {conta.Agencia}");
-                }     
+                Console.WriteLine($"Conta número {conta.Numero}, ag. {conta.Agencia}");  
             }
 
             Console.ReadLine();
