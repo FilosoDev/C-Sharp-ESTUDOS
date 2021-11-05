@@ -1,0 +1,7 @@
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.AssemblyReference.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\AprendendoCSharp-modulo-9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
