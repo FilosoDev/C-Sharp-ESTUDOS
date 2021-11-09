@@ -4,45 +4,37 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO; // IO = Input Output
+
+using System.IO; // IO = Input e Output
+using System.Globalization;
 
 namespace ByteBankImportacaoExportacao 
 { 
-    class Program 
+    partial class Program 
     { 
         static void Main(string[] args) 
         {
 
-            var enderecoDoArquivo = "contas.txt";
+            //using(var fs = new FileStream("testaTipos.txt", FileMode.Create))
+            //using(var escritor = new StreamWriter(fs))
+            //{
+            //    escritor.WriteLine(true);
+            //    escritor.WriteLine(false);
+            //    escritor.WriteLine(345633);
+            //}
 
-            var fluxoDoArquivo = new FileStream(enderecoDoArquivo, FileMode.Open);
+            //EscritaBinaria();
 
-            var buffer = new byte[1024]; //1kb
-            var numeroDeBytesLidos = -1;
+            LeituraBinaria();
 
-            while(numeroDeBytesLidos != 0)
-            {
-                numeroDeBytesLidos = fluxoDoArquivo.Read(buffer, 0, 1024);
-                EscreverBuffer(buffer);
-            }
-           
+            
+
+
+            //TestaEscrita();
+            Console.WriteLine("Aplicação finalizada. . .");
+
 
             Console.ReadLine();
-        }
-
-        static void EscreverBuffer(byte[] buffer)
-        {
-
-            var utf8 = new UTF8Encoding;
-
-            var texto = utf8.GetString(buffer);
-            Console.Write(texto);
-
-            //foreach (var meuByte in buffer)
-            //{
-            //    Console.Write(meuByte);
-            //    Console.Write(" ");
-            //}
         }
     }
 } 
