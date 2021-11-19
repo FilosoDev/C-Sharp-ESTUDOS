@@ -1,9 +1,10 @@
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Cadastro\formulario.cshtml
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.deps.json
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.json
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.runtimeconfig.dev.json
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
-C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfoInputs.cache
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.AssemblyInfo.cs
@@ -11,6 +12,5 @@ C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitur
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.dll
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.pdb
 C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.genruntimeconfig.cache
-C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Repositorio\livros.csv
-C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\formulario.html
-C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\HTML\para-ler.html
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\bin\Debug\netcoreapp2.0\Views\Livros\lista.cshtml
+C:\Users\arthu\pasta-do-git\C-Sharp-ESTUDOS\Alura.ListaLeitura\Alura.ListaLeitura.App\obj\Debug\netcoreapp2.0\Alura.ListaLeitura.App.csproj.AssemblyReference.cache
